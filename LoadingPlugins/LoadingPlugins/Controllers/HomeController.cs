@@ -14,7 +14,7 @@ namespace LoadingPlugins.Controllers
         public ActionResult Index()
         {
             ViewBag.Message = "hello";
-            string path = @"D:\TutorialProjects\LoadingPlugins\LoadingPlugins\plugins";
+            string path = @"D:\TutorialProjects\PluginProject\LoadingPlugins\LoadingPlugins\plugins";
             string[] dllFileNames = null;
             if (Directory.Exists(path))
             {
