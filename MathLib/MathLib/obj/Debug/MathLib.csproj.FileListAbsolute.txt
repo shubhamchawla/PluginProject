@@ -1,0 +1,7 @@
+D:\TutorialProjects\MathLib\MathLib\bin\Debug\MathLib.dll
+D:\TutorialProjects\MathLib\MathLib\bin\Debug\MathLib.pdb
+D:\TutorialProjects\MathLib\MathLib\obj\Debug\MathLib.csprojResolveAssemblyReference.cache
+D:\TutorialProjects\MathLib\MathLib\obj\Debug\MathLib.dll
+D:\TutorialProjects\MathLib\MathLib\obj\Debug\MathLib.pdb
+D:\TutorialProjects\MathLib\MathLib\bin\Debug\PluginContract.dll
+D:\TutorialProjects\MathLib\MathLib\bin\Debug\PluginContract.pdb
